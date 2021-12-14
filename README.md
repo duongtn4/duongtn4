@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Duong Nguyen (Sally)
-- 👀 I’m interested in how to use data to promote strategic decisions.
+- 👀 I’m interested in how to use data to promote more strategic decisions.
 - 🌱 I’m currently learning Business Analytics at UCI - Paul Merage School of Business
 - 📫 You can reach me via email as duongtn4@uci.edu
 
