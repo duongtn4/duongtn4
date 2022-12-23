@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duong Nguyen (Sally)
-- 👀 I’m interested in how to use data to promote more strategic decisions.
-- 🌱 I’m currently learning Business Analytics at UCI - Paul Merage School of Business
+- 👀 I’m interested in exploring the relationships between numbers and translating information retrieved from data into actionable strategies.
+- 🌱 I graduated from Business Analytics program at UCI - Paul Merage School of Business and currently working as a Business Analyst.
 - 📫 You can reach me via email as duongtn4@uci.edu
 
 <!---
